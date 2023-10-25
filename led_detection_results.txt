@@ -1,3 +1,0 @@
-No. of LEDs detected: 1
-Centroid #1: (996, 430)
-Area #1: 468.5
